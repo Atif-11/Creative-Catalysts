@@ -1,5 +1,5 @@
-streamlit==1.27.2
+streamlit
 numpy
-requests==2.31.0
-python-dotenv==1.0.0
-ibm-cloud-sdk-core==3.22.0
+requests
+python-dotenv
+ibm-cloud-sdk-core
